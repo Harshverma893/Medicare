@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <tabs>
+
+    <tab text="@string/home" drawable="@drawable/ic_home"/>
+
+    <tab text="@string/add" drawable="@drawable/ic_add"/>
+
+    <tab text="@string/requirement" drawable="@drawable/medical"/>
+
+    <tab text="@string/profile" drawable="@drawable/ic_user"/>
+
+</tabs>
